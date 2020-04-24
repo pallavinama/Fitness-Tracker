@@ -3,7 +3,7 @@ const path = require("path");
 module.exports = function(app) {
     // return the index.html page
     app.get("/", function(req, res) {
-        res.sendFile(path.join(__dirname, "../index.html"));
+        res.sendFile(path.join(__dirname, "../Develop/public/index.html"));
     });
 
     // return the exercise.html page
