@@ -12,7 +12,12 @@ https://stormy-reaches-25272.herokuapp.com/
 
 APP Screeshots:
 
-![image](https://user-images.githubusercontent.com/61402034/80176721-8ab00900-85c7-11ea-8bc0-6bf2e58b6a11.png)
+![image](https://user-images.githubusercontent.com/61402034/80176848-e5e1fb80-85c7-11ea-8762-ac82a52f03e0.png)
+
+![image](https://user-images.githubusercontent.com/61402034/80176943-26da1000-85c8-11ea-977f-3eb005399ac0.png)
+
+![image](https://user-images.githubusercontent.com/61402034/80177013-5db02600-85c8-11ea-9fe9-433712a1ec16.png)
+
 
 Technologies Used:
 
